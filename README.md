@@ -8,7 +8,7 @@ Three.js rapid prototype starter kit.
 git clone https://github.com/kenjiSpecial/three-js-starter-kit && cd gulp-starter && rm -rf .git && git init && npm i
 ```
 
-### npm start
+### Start rapidtyping
 
 ```
 npm start
